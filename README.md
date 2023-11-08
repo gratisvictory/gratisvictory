@@ -19,5 +19,5 @@
 <br/>
 <h3 align="left">🔥Languages and Tools:</h3>
 <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,redux,threejs,nextjs,materialui,apollo,graphql,jest,firebase,nodejs,nestjs,prisma,sqlite,postgres,git,docker,vite,webpack,vscode,figma" />
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gratisvictory&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gratisvictory" /> -->
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gratisvictory&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gratisvictory" />
 
