@@ -16,7 +16,8 @@
 <a href="https://t.me/gratisvictory" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/background-github.appspot.com/o/Telegram.png?alt=media&token=bfce900e-4f95-439e-9169-e8407c9bdce2&_gl=1*1t349ok*_ga*OTc1NjkyMDE1LjE2OTY1MTU2OTg.*_ga_CW55HF8NVT*MTY5OTQ0OTcxOS4xMi4xLjE2OTk0NTE2NzUuNTMuMC4w" alt="Telegram" height="40" width="40" /></a>
 </p>
 <br/>
+<br/>
 <h3 align="left">🔥Languages and Tools:</h3>
 <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,redux,threejs,nextjs,materialui,apollo,graphql,jest,firebase,nodejs,nestjs,prisma,sqlite,postgres,git,docker,vite,webpack,vscode,figma" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gratisvictory&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gratisvictory" />
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gratisvictory&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gratisvictory" /> -->
 
