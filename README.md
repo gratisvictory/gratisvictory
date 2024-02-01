@@ -3,7 +3,7 @@
 <h3 align="center">🎉Frontend Developer</h3>
 <img align="right" alt="gif" width="400" height="300" src="https://firebasestorage.googleapis.com/v0/b/background-github.appspot.com/o/right_avat.gif?alt=media&token=322705f9-0363-4e53-9122-de852913574e&_gl=1*4kawf0*_ga*OTc1NjkyMDE1LjE2OTY1MTU2OTg.*_ga_CW55HF8NVT*MTY5OTQ0OTcxOS4xMi4xLjE2OTk0NTMwMTIuNTMuMC4w">
 
-- 🔭 I’m currently working on **Youtube clone Web App & freelance**
+- 🔭 I’m currently working on **Demonic Bot & freelance**
 
 - 🌱 I’m currently learning **Frontend & Backend**
 
